@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Tektur:wght@400;500&display=swap");
+
+body {
+	background: #222831;
+	color: #ffffff;
+}
+
+.title {
+	font-family: "Tektur", cursive;
+	font-size: 40px;
+	font-weight: 500;
+	color: #14ffec;
+}
+
+label {
+	font-family: "Tektur", cursive;
+	color: #fce38a;
+}
+
+#roman-number {
+	text-transform: uppercase;
+}
